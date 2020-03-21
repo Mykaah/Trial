@@ -10,6 +10,7 @@ Slack Username: Micah
 Tracks: Frontend, Backend, Design.
 
 Courses Registered: 
+
 A. Frontend
 - HTML
 - CSS
